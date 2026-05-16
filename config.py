@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8719146651:AAFZ4L2Bo9q1ohPWpbvszr-A-D3tRS2mTXw")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "TG_TOKEN")
 
 # Настройки SQL Server Express
 SQL_SERVER_CONFIG = {
